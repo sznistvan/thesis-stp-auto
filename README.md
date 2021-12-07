@@ -1,4 +1,4 @@
-![This is an image](https://www.mm.bme.hu/mmengine/assets/bme_logo_feher.png)
+![BME Logo](https://github.com/sznistvan/thesis-stp-auto/blob/master/inverted_bmelogo.png)
 # **SZAKDOLGOZAT FELADAT**
 ## Szepesi-Nagy István - Mérnökinformatikus hallgató részére
 ### **Hálózati feszítőfák automatizált átalakítása**
